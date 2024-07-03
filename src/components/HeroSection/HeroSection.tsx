@@ -20,7 +20,7 @@ const HeroSection = () => {
            <MdOutlineStarBorder className=' hidden lg:flex text-4xl text-neutral-700 absolute bottom-24 right-8 ' />
            <MdOutlineStarBorder className=' hidden lg:flex text-4xl text-neutral-700 absolute bottom-[300px] right-36 ' />
            <MdOutlineStarBorder className=' hidden lg:flex text-4xl text-neutral-700 absolute bottom-[250px] left-0 ' />
-           <div className=' hidden lg:flex absolute  lg:max-w-[77%] min-w-[75%]  bottom-0 right-20 max-h-[380px] min-h-[380px]'>
+           <div className=' hidden lg:flex absolute  lg:max-w-[74%]   bottom-0 right-20 max-h-[382px] min-h-[360px]'>
             <img src="/photoMode.png" alt="model" />
            </div>
         </div>
